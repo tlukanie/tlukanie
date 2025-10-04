@@ -25,10 +25,10 @@
 ---
 
 ## 📌 Featured Projects
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=FrenchBakerySales_TimeSeriesForecasting&theme=radical)](git@github.com:tlukanie/FrenchBakerySales_TimeSeriesForecasting.git)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=FrenchBakerySales_TimeSeriesForecasting&theme=radical)](https://git@github.com:tlukanie/FrenchBakerySales_TimeSeriesForecasting.git)
 [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=Python_for_Data_Science&theme=radical)](https://github.com/tlukanie/Python_for_Data_Science)
-[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=GlobalEth&theme=radical)](git@github.com:tlukanie/GlobalEth.git)
-[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=nft_42&theme=radical)](git@github.com:tlukanie/nft_42.git)
+[![Project 3](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=GlobalEth&theme=radical)](https://git@github.com:tlukanie/GlobalEth.git)
+[![Project 4](https://github-readme-stats.vercel.app/api/pin/?username=tlukanie&repo=nft_42&theme=radical)](https://git@github.com:tlukanie/nft_42.git)
 
 ---
 
