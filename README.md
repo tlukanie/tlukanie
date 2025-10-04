@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 I’m learning **Solidity, Python** and actively working on **ML project related to sales forecasting**
+- 🌱 I’m learning **Solidity, Python** and actively working on **ML project related to sales forecasting and MCP server for tracking staked balances on blockchains**
 - 💬 Ask me about **Blockchain**
 ---
 
